@@ -1,5 +1,6 @@
 package lab.example.beforerefactoring;
 
+// class currently NOT CLOSED FOR MODIFICATION...WHAT IF WE HAD A ROCKHOUSE??? WOULD HAVE TO MODIFY THIS CLASS
 public class HouseTemplate {
 
     public void buildWoodenHouse(){

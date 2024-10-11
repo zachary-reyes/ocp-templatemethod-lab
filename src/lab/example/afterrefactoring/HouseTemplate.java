@@ -1,5 +1,6 @@
 package lab.example.afterrefactoring;
 
+// EMPHASIS ON ABSTRACT
 public abstract class HouseTemplate {
 
     //template method, final so subclasses can't override
